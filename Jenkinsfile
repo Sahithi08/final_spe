@@ -11,16 +11,16 @@ pipeline{
                 git url : 'https://github.com/Sahithi08/final_spe.git'
             }
         }
-        // stage('Testing'){
-        //     steps{
-        //         dir('frontend'){
-        //             sh "npm install"
-        //         }
-        //         dir('backend'){
-        //             sh "npm install"
-        //         }
-        //     }
-        // }
+        stage('Testing'){
+            steps{
+                dir('frontend'){
+                    sh "npm install"
+                }
+                dir('backend'){
+                    sh "npm install"
+                }
+            }
+        }
         stage('Build Frontend Image') {
             steps {
                 sh 'docker build -t frontend-image ./frontend'

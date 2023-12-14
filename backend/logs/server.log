@@ -1,0 +1,163 @@
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:08:51.355Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 64ff0da07dfd7285a698b691 {"timestamp":"2023-12-13T23:09:04.282Z"}
+info: [Success] User registered successfully - Name: 1, Email: 1 {"timestamp":"2023-12-13T23:09:17.329Z"}
+info: [Success] User login successful - Name: 1, Email: 1 {"timestamp":"2023-12-13T23:09:24.117Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-13T23:09:34.314Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-13T23:11:21.512Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-13T23:11:25.638Z"}
+info: [Success] User login successful - Name: 2, Email: 2 {"timestamp":"2023-12-13T23:11:32.178Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:11:35.783Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 64ff0da07dfd7285a698b691 {"timestamp":"2023-12-13T23:11:40.986Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:12:08.636Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 64ff0da07dfd7285a698b694 {"timestamp":"2023-12-13T23:16:32.857Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:16:34.749Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 64ff0da07dfd7285a698b694 {"timestamp":"2023-12-13T23:16:35.702Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:16:36.448Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 64ff0da07dfd7285a698b694 {"timestamp":"2023-12-13T23:16:36.989Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:16:38.143Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:16:43.584Z"}
+info: [Success] User registered successfully - Name: 1, Email: 2 {"timestamp":"2023-12-13T23:16:56.378Z"}
+info: [Success] User registered successfully - Name: 2, Email: 2 {"timestamp":"2023-12-13T23:17:12.663Z"}
+info: [Success] User registered successfully - Name: 2, Email: 2 {"timestamp":"2023-12-13T23:17:18.594Z"}
+info: [Success] User login successful - Name: 2, Email: 2 {"timestamp":"2023-12-13T23:17:25.149Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:17:27.600Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 64ff0da07dfd7285a698b691 {"timestamp":"2023-12-13T23:17:36.141Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-13T23:17:44.087Z"}
+
+error: [Error] Failed to add new room - rooms validation failed: type: Path `type` is required. {"timestamp":"2023-12-14T03:27:13.550Z"}
+error: [Error] Failed to add new room - rooms validation failed: type: Path `type` is required. {"timestamp":"2023-12-14T03:27:15.436Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 6579eed4bfcbb12911d0f2c2 {"timestamp":"2023-12-14T03:27:52.550Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:27:57.045Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T03:28:01.952Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:28:04.201Z"}
+info: [Success] New room added successfully - Room Name: OYO hyderabad {"timestamp":"2023-12-14T03:29:20.727Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T03:29:33.205Z"}
+info: [Success] Retrieved all users successfully {"timestamp":"2023-12-14T03:30:50.895Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-14T03:31:26.732Z"}
+info: [Success] User registered successfully - Name: vishnu, Email: vishnu@example.com {"timestamp":"2023-12-14T03:31:45.451Z"}
+info: [Success] User login successful - Name: vishnu, Email: vishnu@example.com {"timestamp":"2023-12-14T03:31:56.375Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:32:01.690Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T03:32:54.152Z"}
+info: [Success] Retrieved all users successfully {"timestamp":"2023-12-14T03:32:57.661Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T03:33:44.032Z"}
+info: [Success] Retrieved all users successfully {"timestamp":"2023-12-14T03:33:45.714Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T03:33:56.980Z"}
+info: [Success] Retrieved all users successfully {"timestamp":"2023-12-14T03:33:59.629Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:34:11.628Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:34:22.556Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:34:36.769Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:36:02.575Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:36:39.131Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:44:22.792Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:49:31.150Z"}
+error: [Error] Room booking failed - This Customer doesn't have any saved payment details. Attach a legacy Token, Card, Bank Account, or Source to this Customer and then try this request again, or use Payment Intents and Payment Methods instead. {"timestamp":"2023-12-14T03:49:36.989Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:50:16.027Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:50:19.330Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:50:26.084Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:50:44.270Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:50:46.856Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:50:53.291Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:51:06.873Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:51:08.899Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:51:30.103Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T03:51:59.652Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:52:01.298Z"}
+info: [Success] Retrieved all users successfully {"timestamp":"2023-12-14T03:52:13.504Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T03:56:27.589Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T03:57:20.128Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:00:49.188Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:00:49.809Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:00:53.109Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:00:59.034Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:02:08.937Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:02:39.728Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:02:46.368Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:02:51.871Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:02:55.879Z"}
+info: [Success] Room booked successfully - User: 657a77213736e80b2bdbeea5, Room: OYO hyderabad {"timestamp":"2023-12-14T04:02:58.845Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:03:02.628Z"}
+info: [Success] Booking cancelled successfully - Booking ID: 657a7e726cb1b7386f09212d {"timestamp":"2023-12-14T04:05:49.885Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:05:53.723Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T04:13:41.086Z"}
+info: [Success] Retrieved room by ID successfully - Room ID: 657a76903736e80b2bdbeea4 {"timestamp":"2023-12-14T04:13:56.634Z"}
+info: [Success] Room booked successfully - User: 657a77213736e80b2bdbeea5, Room: OYO hyderabad {"timestamp":"2023-12-14T04:14:07.338Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:14:11.722Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:14:20.902Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:15:54.908Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T04:18:50.718Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:19:16.710Z"}
+info: booking deleted {"timestamp":"2023-12-14T04:19:18.518Z"}
+error: [Error] Booking cancellation failed - Cannot read properties of null (reading 'currentbookings') {"timestamp":"2023-12-14T04:19:18.801Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:21:39.904Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:21:41.366Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:21:45.116Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:25:10.427Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:25:14.615Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:25:16.347Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:25:39.187Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:25:40.216Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:25:52.342Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:25:53.246Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:27:02.033Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:27:03.545Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:27:06.851Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:28:58.736Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:29:01.668Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:29:21.108Z"}
+info: [Success] Booking cancelled successfully - Booking ID: undefined {"timestamp":"2023-12-14T04:29:22.369Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:29:26.140Z"}
+error: [Error] Booking cancellation failed - deletedBooking is not defined {"timestamp":"2023-12-14T04:30:18.388Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:30:41.936Z"}
+error: [Error] Booking cancellation failed - booking is not defined {"timestamp":"2023-12-14T04:30:43.192Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:31:16.227Z"}
+error: [Failure] Booking not found - Booking ID: undefined {"timestamp":"2023-12-14T04:31:17.824Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:32:44.870Z"}
+error: [Failure] Booking not found - Booking ID: undefined {"timestamp":"2023-12-14T04:32:45.900Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:33:47.676Z"}
+error: [Failure] Booking not found - Booking ID: undefined {"timestamp":"2023-12-14T04:33:48.663Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:36:30.406Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:36:35.296Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:36:47.481Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:36:50.860Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:37:02.148Z"}
+error: [Error] Failed to retrieve all rooms - Operation `rooms.find()` buffering timed out after 10000ms {"timestamp":"2023-12-14T04:38:47.383Z"}
+error: [Error] Failed to retrieve user bookings - Operation `bookings.find()` buffering timed out after 10000ms {"timestamp":"2023-12-14T04:38:56.150Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:39:16.252Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:48:32.231Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:49:03.891Z"}
+info: [Success] Booking cancelled successfully - Booking ID: 657a810fb4289f543514353a {"timestamp":"2023-12-14T04:49:05.087Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:49:07.889Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T04:51:55.416Z"}
+error: [Error] Make user admin failed - findOneandUpdate is not defined {"timestamp":"2023-12-14T05:14:44.464Z"}
+info: [Success] This user is now an admin 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:16:42.149Z"}
+info: [Success] This user is now an admin 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:16:47.891Z"}
+info: [Success] This user is now an admin 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:17:31.731Z"}
+info: [Success] User login successful - Name: vishnu, Email: vishnu@example.com {"timestamp":"2023-12-14T05:22:30.352Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T05:22:33.854Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T05:23:05.903Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:23:16.335Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:23:56.369Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:23:57.570Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:23:59.432Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:24:01.704Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:24:03.316Z"}
+info: [Success] Retrieved user bookings successfully - User ID: 657a77213736e80b2bdbeea5 {"timestamp":"2023-12-14T05:24:04.874Z"}
+info: [Success] User registered successfully - Name: name, Email: name@example.com {"timestamp":"2023-12-14T05:26:53.954Z"}
+info: [Success] User login successful - Name: name, Email: name@example.com {"timestamp":"2023-12-14T05:27:05.877Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T05:27:07.956Z"}
+info: [Success] User login successful - Name: name, Email: name@example.com {"timestamp":"2023-12-14T05:27:21.607Z"}
+info: [Success] This user is now an admin 657a921de6214cbfa3aa049c {"timestamp":"2023-12-14T05:27:27.862Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T06:20:53.231Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T06:24:08.466Z"}
+info: [Success] Retrieved all bookings successfully {"timestamp":"2023-12-14T06:24:12.982Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T06:24:15.044Z"}
+info: [Success] New room added successfully - Room Name: Louis bangalore resort {"timestamp":"2023-12-14T06:25:39.340Z"}
+info: [Success] New room added successfully - Room Name: Louis bangalore resort {"timestamp":"2023-12-14T06:25:42.991Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T06:25:59.080Z"}
+info: [Success] Retrieved all rooms successfully {"timestamp":"2023-12-14T06:26:26.009Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-14T07:05:19.675Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-14T07:05:19.722Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-14T07:05:35.587Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-14T07:05:35.640Z"}
+error: [Failure] User login failed - Invalid credentials {"timestamp":"2023-12-14T07:06:19.456Z"}
+info: [Success] User login successful - Name: name, Email: name@example.com {"timestamp":"2023-12-14T07:06:19.525Z"}

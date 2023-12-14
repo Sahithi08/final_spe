@@ -36,10 +36,10 @@ pipeline{
 
                  withCredentials([usernamePassword(credentialsId: 'DockerHubCred', usernameVariable: 'DOCKER_HUB_USERNAME', passwordVariable: 'DOCKER_HUB_PASSWORD')]) {
                     sh "docker login -u $DOCKER_HUB_USERNAME -p $DOCKER_HUB_PASSWORD"
-                    sh 'docker tag frontend-image sahithi008/frontend-image:latest'
-                    sh 'docker push sahithi008/frontend-image:latest'
-                    sh 'docker tag backend-image sahithi008/backend-image:latest'
-                    sh 'docker push sahithi008/backend-image:latest'
+                    sh 'docker tag frontend-image vishnutha/frontend-image:latest'
+                    sh 'docker push vishnutha/frontend-image:latest'
+                    sh 'docker tag backend-image vishnutha/backend-image:latest'
+                    sh 'docker push vishnutha/backend-image:latest'
                 }        
             }
         }

@@ -1,5 +1,5 @@
 ---
-- name: Deploy Health application
+- name: Deploy Rooms application
   hosts: all
   vars:
     ansible_python_interpreter: /usr/bin/python3
